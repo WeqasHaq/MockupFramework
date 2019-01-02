@@ -1,0 +1,8 @@
+CommonMethods\CommonMethods.class
+basePackage\pageFactoryModel.class
+pagesPackage\loginPage.class
+pagesPackage\PIMModule.class
+stepDefinition\Hooks.class
+basePackage\baseClass.class
+stepDefinition\stepDefinitionClass.class
+runnerPackage\runnerClass.class
